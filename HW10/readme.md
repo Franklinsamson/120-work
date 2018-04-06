@@ -1,0 +1,3 @@
+Franklin Samson, 50
+
+To be honest I have to get a better understanding on how arrays work, but other then I thought this assignment was fairly easy. Everyone seems to be going off from their previous homework assignment. As for me I started from scratch. I didn't run into any problems or issue but I thing in particlur, everytime I refresh my sketch something different seems to happen. Which seem pretty cool in my opinion. I really appreciate what we have learned up to this point. I am sure looking forward to the assignment we have next week. I apoligize for not being a real help to any of the issues our fellow students are having. I wish I could be a bit useful but, if I really knew the answer to any of their problems I sure will try my best to help address them.
